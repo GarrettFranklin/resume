@@ -40,12 +40,12 @@ Computer Science
 
 
 ## References
-### Darren Mansell
+### Darren Mansel
 #### Relator/Principle Broker, Mansell Real Estate
-Darren@Mansellrealestate.com
-Cell: (405)590-7192
+Darren@Manselrealestate.net
+Cell: (555)591-7192
 ### Jon Bready
 #### Senior Mechanical Engineer, Collision Safety Engineering
-jbready@cselc.com
-Office: (801)229-6200
-Cell: (801)358-9652
+jbready@cc.com
+Office: (555)239-6200
+Cell: (555)357-9652
